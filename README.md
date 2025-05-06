@@ -16,14 +16,6 @@ A simple and elegant **React Native** currency converter app that allows users t
 
 ---
 
-## 📱 Screenshots
-
-| Input | Result | Currency Selection |
-|-------|--------|--------------------|
-| ![Input](./screenshots/input.png) | ![Result](./screenshots/result.png) | ![Grid](./screenshots/grid.png) |
-
----
-
 ## 🛠️ Built With
 
 - [React Native](https://reactnative.dev/)
