@@ -39,18 +39,13 @@ A simple and elegant **React Native** currency converter app that allows users t
    ```bash
    git clone https://github.com/yourusername/currency-converter-app.git
    cd currency-converter-app
-
-
 2.Install dependencies:
-```bash
-npm install
-# or
-yarn install
-
-
+   ```bash
+   npm install
+   # or
+   yarn install
 3.Run the app:
-
-```bash
-npx react-native run-android
-# or
-npx react-native run-ios
+   For Android:
+     npx react-native run-android
+   For ios:
+     npx react-native run-ios
