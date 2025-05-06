@@ -2,10 +2,6 @@
 
 A simple and elegant **React Native** currency converter app that allows users to convert Indian Rupees (₹) into various international currencies with real-time conversion logic. Built with usability and minimalism in mind.
 
-![App Screenshot](./screenshot.png)
-
----
-
 ## ✨ Features
 
 - 💰 Convert Indian Rupees to multiple currencies
